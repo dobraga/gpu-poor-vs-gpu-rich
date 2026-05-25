@@ -1,4 +1,4 @@
-# GPU Poor vs GPU Rich⚡
+# GPU Poor vs GPU Rich
 
 Recursos e links da palestra.
 
